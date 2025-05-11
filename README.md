@@ -1,2 +1,0 @@
-# Codam
-Codam projects
